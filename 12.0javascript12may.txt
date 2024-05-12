@@ -1,0 +1,21 @@
+alert("hello World");
+
+//datatypes.js
+alert(3+2);
+typeof(3+2);
+
+//variables.js
+var name = prompt("HWat is your name");
+alert("hello "+name);
+
+//swapnumbers.js
+var a=8;
+var b=3;
+
+var c=a;
+a=b;
+b=c;
+
+console.log(a);
+console.log(b);
+
