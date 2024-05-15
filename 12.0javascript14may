@@ -1,0 +1,6 @@
+function get_Milk(cost) {
+    var bottles = Math.floor(cost/1.5);
+    console.log(bottles+" "+cost);
+}
+get_Milk(10);
+
